@@ -1,2 +1,2 @@
 # delta-demo-2
-practice demo code
+practice demo code.
